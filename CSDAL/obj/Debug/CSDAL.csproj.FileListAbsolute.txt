@@ -17,3 +17,9 @@ C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\CSDAL\bin\Debug\CSDAL.pdb
 C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\CSDAL\obj\Debug\CSDAL.csprojResolveAssemblyReference.cache
 C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\CSDAL\obj\Debug\CSDAL.dll
 C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\CSDAL\obj\Debug\CSDAL.pdb
+C:\Users\khalid\source\repos\AIusingML\CSDAL\bin\Debug\CSDAL.dll
+C:\Users\khalid\source\repos\AIusingML\CSDAL\bin\Debug\CSDAL.pdb
+C:\Users\khalid\source\repos\AIusingML\CSDAL\obj\Debug\CSDAL.csprojAssemblyReference.cache
+C:\Users\khalid\source\repos\AIusingML\CSDAL\obj\Debug\CSDAL.csproj.CoreCompileInputs.cache
+C:\Users\khalid\source\repos\AIusingML\CSDAL\obj\Debug\CSDAL.dll
+C:\Users\khalid\source\repos\AIusingML\CSDAL\obj\Debug\CSDAL.pdb
