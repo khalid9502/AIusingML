@@ -1,0 +1,127 @@
+C:\Users\shakeel\Documents\Visual Studio 2015\Projects\AI_using_ML\AI_using_ML\bin\Debug\AI_using_ML.exe.config
+C:\Users\shakeel\Documents\Visual Studio 2015\Projects\AI_using_ML\AI_using_ML\bin\Debug\AI_using_ML.exe
+C:\Users\shakeel\Documents\Visual Studio 2015\Projects\AI_using_ML\AI_using_ML\bin\Debug\AI_using_ML.pdb
+C:\Users\shakeel\Documents\Visual Studio 2015\Projects\AI_using_ML\AI_using_ML\obj\Debug\AI_using_ML.csprojResolveAssemblyReference.cache
+C:\Users\shakeel\Documents\Visual Studio 2015\Projects\AI_using_ML\AI_using_ML\obj\Debug\AI_using_ML.StartPage.resources
+C:\Users\shakeel\Documents\Visual Studio 2015\Projects\AI_using_ML\AI_using_ML\obj\Debug\AI_using_ML.Properties.Resources.resources
+C:\Users\shakeel\Documents\Visual Studio 2015\Projects\AI_using_ML\AI_using_ML\obj\Debug\AI_using_ML.csproj.GenerateResource.Cache
+C:\Users\shakeel\Documents\Visual Studio 2015\Projects\AI_using_ML\AI_using_ML\obj\Debug\AI_using_ML.exe
+C:\Users\shakeel\Documents\Visual Studio 2015\Projects\AI_using_ML\AI_using_ML\obj\Debug\AI_using_ML.pdb
+C:\Users\shakeel\Documents\Visual Studio 2015\Projects\AI_using_ML\AI_using_ML\obj\Debug\AI_using_ML.CustomerSegmentation.resources
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\AI_using_ML.exe.config
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\obj\Debug\AI_using_ML.exe
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\obj\Debug\AI_using_ML.pdb
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\AI_using_ML.exe
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\AI_using_ML.pdb
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\CSDAL.dll
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\CSDAL.pdb
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\obj\Debug\AI_using_ML.csprojResolveAssemblyReference.cache
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\obj\Debug\AI_using_ML.CustomerSegmentation.resources
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\obj\Debug\AI_using_ML.Properties.Resources.resources
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\obj\Debug\AI_using_ML.csproj.GenerateResource.Cache
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\Accord.MachineLearning.dll
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\Accord.Statistics.dll
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\Accord.dll
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\Accord.Math.dll
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\Accord.Math.Core.dll
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\Accord.MachineLearning.pdb
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\Accord.MachineLearning.xml
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\Accord.Statistics.pdb
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\Accord.Statistics.xml
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\Accord.pdb
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\Accord.xml
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\Accord.Math.pdb
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\Accord.Math.xml
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\Accord.Math.Core.pdb
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\Accord.Math.Core.xml
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\Accord.Controls.dll
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\Accord.IO.dll
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\ZedGraph.dll
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\Accord.Controls.pdb
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\Accord.Controls.xml
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\Accord.IO.pdb
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\Accord.IO.xml
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\bin\Debug\ZedGraph.xml
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\obj\Debug\AI_using_ML.Classifier.resources
+C:\Users\shakeel\Desktop\project stuff\AI_using_ML\AI_using_ML\obj\Debug\AI_using_ML.Authentication.resources
+C:\Users\shakeel\Desktop\Main Project\AI_using_ML\bin\Debug\AI_using_ML.exe.config
+C:\Users\shakeel\Desktop\Main Project\AI_using_ML\obj\Debug\AI_using_ML.exe
+C:\Users\shakeel\Desktop\Main Project\AI_using_ML\obj\Debug\AI_using_ML.pdb
+C:\Users\shakeel\Desktop\Main Project\AI_using_ML\obj\Debug\AI_using_ML.csprojResolveAssemblyReference.cache
+C:\Users\shakeel\Desktop\Main Project\AI_using_ML\obj\Debug\AI_using_ML.ClassifyBuyer.resources
+C:\Users\shakeel\Desktop\Main Project\AI_using_ML\obj\Debug\AI_using_ML.CustomerSegmentation.resources
+C:\Users\shakeel\Desktop\Main Project\AI_using_ML\obj\Debug\AI_using_ML.Authentication.resources
+C:\Users\shakeel\Desktop\Main Project\AI_using_ML\obj\Debug\AI_using_ML.Properties.Resources.resources
+C:\Users\shakeel\Desktop\Main Project\AI_using_ML\obj\Debug\AI_using_ML.csproj.GenerateResource.Cache
+C:\Users\shakeel\Desktop\Main Project\AI_using_ML\bin\Debug\AI_using_ML.exe
+C:\Users\shakeel\Desktop\Main Project\AI_using_ML\bin\Debug\AI_using_ML.pdb
+C:\Users\shakeel\Desktop\Main Project\AI_using_ML\bin\Debug\CSDAL.dll
+C:\Users\shakeel\Desktop\Main Project\AI_using_ML\bin\Debug\CSDAL.pdb
+G:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\AI_using_ML.exe.config
+G:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.exe
+G:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.pdb
+H:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\AI_using_ML.exe.config
+H:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\AI_using_ML.exe
+H:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\AI_using_ML.pdb
+H:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\CSDAL.dll
+H:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\CSDAL.pdb
+H:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.csprojResolveAssemblyReference.cache
+H:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.ClassifyBuyer.resources
+H:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.CustomerSegmentation.resources
+H:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.Authentication.resources
+H:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.Properties.Resources.resources
+H:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.csproj.GenerateResource.Cache
+H:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.exe
+H:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.pdb
+I:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\AI_using_ML.exe.config
+I:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.exe
+I:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.pdb
+I:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\AI_using_ML.exe
+I:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\AI_using_ML.pdb
+I:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\CSDAL.dll
+I:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\CSDAL.pdb
+I:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.csprojResolveAssemblyReference.cache
+I:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.ClassifyBuyer.resources
+I:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.CustomerSegmentation.resources
+I:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.Authentication.resources
+I:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.Properties.Resources.resources
+I:\Main Project\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.csproj.GenerateResource.Cache
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\AI_using_ML.exe.config
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.exe
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.pdb
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\AI_using_ML.exe
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\AI_using_ML.pdb
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\CSDAL.dll
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\CSDAL.pdb
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.csprojResolveAssemblyReference.cache
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.ClassifyBuyer.resources
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.CustomerSegmentation.resources
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.Authentication.resources
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.Properties.Resources.resources
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.csproj.GenerateResource.Cache
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.ClassifyInterested.resources
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\AI_using_ML.exe.manifest
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\AI_using_ML.application
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.exe.manifest
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.application
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\Accord.Controls.dll
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\Accord.dll
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\Accord.MachineLearning.dll
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\Accord.Math.Core.dll
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\Accord.Math.dll
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\Accord.Statistics.dll
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\ZedGraph.dll
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\Accord.pdb
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\Accord.xml
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\Accord.Controls.pdb
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\Accord.Controls.xml
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\Accord.MachineLearning.pdb
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\Accord.MachineLearning.xml
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\Accord.Math.pdb
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\Accord.Math.xml
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\Accord.Math.Core.pdb
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\Accord.Math.Core.xml
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\Accord.Statistics.pdb
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\Accord.Statistics.xml
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\bin\Debug\ZedGraph.xml
+C:\Users\dell1\Desktop\AI_using_ML-5\Main Project\AI_using_ML\obj\Debug\AI_using_ML.ClassifyLoosingInterest.resources
